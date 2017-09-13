@@ -704,7 +704,7 @@ CreatePuckGrid.prototype._getColumns = function () {
 			allowBlank : true
 		}
 	}, {
-		text : 'Experiment<br>type',
+		text : '<a href="http://www.esrf.eu/MXPressE" target="_blank" title="Click on link for full documentation of different experiment types.">Experiment<br>type</a>',
 		dataIndex : 'experimentType',
 		flex : 0.075,
 		editor : comboExperimentType // specify reference to combo
