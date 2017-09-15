@@ -1280,6 +1280,10 @@ public final class Constants {
 	public static String getDummyGivenName() {
 		return (SITE_IS_MAXIV()) ? getProperty("ISPyB.dummy.given.name.lab.contact") : "";
 	}
+	
+	public static final String ISPYB_EXPERIMENT_TYPE_DOCUMENTAION_URL = Constants.getProperty("ispyb.experiment.type.documentation.url");
+
+	public static final String ISPYB_EXPERIMENT_TYPE_TOOLTIP_TEXT = Constants.getProperty("ispyb.experiment.type.tooltip.text");
 
 	/*
 	 * Functions

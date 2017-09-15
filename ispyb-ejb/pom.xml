@@ -274,6 +274,8 @@
   			 <ispyb.userportal.link>SMIS</ispyb.userportal.link>  
   			 <ispyb.upload.folder.json>/data/pyarch/pdb/json/</ispyb.upload.folder.json>
   			
+  			<ispyb.experiment.type.documentation.url>http://www.esrf.eu/MXPressE</ispyb.experiment.type.documentation.url>
+  			<ispyb.experiment.type.tooltip.text>Click on link for full documentation of different experiment types.</ispyb.experiment.type.tooltip.text>
   		</properties>
   	</profile>
   	<profile>
